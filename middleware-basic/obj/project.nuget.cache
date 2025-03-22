@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B82bntVGzn0=",
+  "success": true,
+  "projectFilePath": "D:\\.Net\\Middleware\\middleware-basic\\middleware-basic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shubham Pawade\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\Shubham Pawade\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
