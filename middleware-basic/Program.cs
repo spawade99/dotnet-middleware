@@ -27,10 +27,8 @@ app.Use(async (context, next) =>
     Console.WriteLine($"Message: {context.Items["message"]}");
     Console.WriteLine($"Payload: {context.Items["payload"]}");
     context.Items["message"] = "Hello from the second middleware at start";
-
     await next();
-    // context.Items["message"] = "Hello from the second middleware at end";
-    Console.WriteLine("Hello from the second middleware at end");
+    context.Items["message"] = "Hello from the second middleware at end";
 });
 
 

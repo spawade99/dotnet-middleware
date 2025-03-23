@@ -1,0 +1,6 @@
+@short_curcuit_middleware_HostAddress = http://localhost:5234
+
+GET {{short_curcuit_middleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

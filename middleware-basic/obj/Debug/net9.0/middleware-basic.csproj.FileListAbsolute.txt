@@ -31,3 +31,4 @@ D:\.Net\Middleware\middleware-basic\obj\Debug\net9.0\refint\middleware-basic.dll
 D:\.Net\Middleware\middleware-basic\obj\Debug\net9.0\middleware-basic.pdb
 D:\.Net\Middleware\middleware-basic\obj\Debug\net9.0\middleware-basic.genruntimeconfig.cache
 D:\.Net\Middleware\middleware-basic\obj\Debug\net9.0\ref\middleware-basic.dll
+D:\.Net\Middleware\middleware-basic\obj\Debug\net9.0\middleware-basic.sourcelink.json
